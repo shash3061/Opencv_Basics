@@ -1,3 +1,3 @@
 # Opencv Basics
 
-Basics of Opencv.
+Some Basics of Opencv.
